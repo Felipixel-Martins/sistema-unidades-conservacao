@@ -1,5 +1,9 @@
 # Sistema de Unidades de Conservação
 
+<p align="center">
+  <img src="assets/banner-website.png" alt="Banner do Projeto" width="200">
+</p>
+
 Sistema web para exibição de informações sobre Unidades de Conservação (UCs), permitindo consultar detalhes como nome, descrição, data de criação, instituição responsável e municípios abrangidos. O projeto também possibilita o envio de comunicações (sugestões ou reportes de problemas) para as autoridades gestoras.
 
 Desenvolvido para o **Hands On Work VI** do curso de Análise e Desenvolvimento de Sistemas, em parceria com a aluna Geovana Vargas Casarin projeto UNIVALI.
