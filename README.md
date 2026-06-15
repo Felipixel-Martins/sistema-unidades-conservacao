@@ -1,8 +1,6 @@
 # Sistema de Unidades de Conservação
 
-<p align="center">
-  <img src="assets/banner-website.png" alt="Banner do Projeto" width="200">
-</p>
+<img width="792" height="588" alt="banner" src="https://github.com/user-attachments/assets/aefb636a-bfe4-481d-b0a3-4710f82a17fa" />
 
 Sistema web para exibição de informações sobre Unidades de Conservação (UCs), permitindo consultar detalhes como nome, descrição, data de criação, instituição responsável e municípios abrangidos. O projeto também possibilita o envio de comunicações (sugestões ou reportes de problemas) para as autoridades gestoras.
 
